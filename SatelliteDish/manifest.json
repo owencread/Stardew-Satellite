@@ -1,0 +1,10 @@
+{
+  "Name": "Satellite Dish Reminders",
+  "Author": "Owen",
+  "Version": "1.0.0",
+  "Description": "Adds a Satellite Dish building (built by Robin) that lets you set reminders shown in the bottom-left corner.",
+  "UniqueID": "OwenC.SatelliteDish",
+  "EntryDll": "SatelliteDish.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

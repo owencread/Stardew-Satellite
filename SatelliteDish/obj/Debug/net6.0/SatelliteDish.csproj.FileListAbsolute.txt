@@ -1,0 +1,8 @@
+C:\Users\owenc\Documents\Projects\Stardew-Satellite\SatelliteDish\obj\Debug\net6.0\SatelliteDish.csproj.AssemblyReference.cache
+C:\Users\owenc\Documents\Projects\Stardew-Satellite\SatelliteDish\obj\Debug\net6.0\SatelliteDish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owenc\Documents\Projects\Stardew-Satellite\SatelliteDish\obj\Debug\net6.0\SatelliteDish.AssemblyInfoInputs.cache
+C:\Users\owenc\Documents\Projects\Stardew-Satellite\SatelliteDish\obj\Debug\net6.0\SatelliteDish.AssemblyInfo.cs
+C:\Users\owenc\Documents\Projects\Stardew-Satellite\SatelliteDish\obj\Debug\net6.0\SatelliteDish.csproj.CoreCompileInputs.cache
+C:\Users\owenc\Documents\Projects\Stardew-Satellite\SatelliteDish\bin\Debug\net6.0\SatelliteDish.deps.json
+C:\Users\owenc\Documents\Projects\Stardew-Satellite\SatelliteDish\bin\Debug\net6.0\SatelliteDish.dll
+C:\Users\owenc\Documents\Projects\Stardew-Satellite\SatelliteDish\obj\Debug\net6.0\SatelliteDish.dll
