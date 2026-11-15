@@ -59,13 +59,13 @@ public class ModEntry : Mod
                     Texture = TextureAsset,
                     Size = new Point(3, 3),
                     Builder = "Robin",
-                    BuildCost = 15000,
+                    BuildCost = 75000,
                     BuildDays = config.InstantBuild ? 0 : 2,
                     BuildMaterials = new List<BuildingMaterial>
                     {
                         new() { ItemId = "(O)335", Amount = 10 }, // Iron Bar
                         new() { ItemId = "(O)338", Amount = 5 },  // Refined Quartz
-                        new() { ItemId = "(O)787", Amount = 2 }   // Battery Pack
+                        new() { ItemId = "(O)787", Amount = 5 }   // Battery Pack
                     },
                     ActionTiles = new List<BuildingActionTile>
                     {

@@ -39,7 +39,7 @@ Never forget to refill the pet bowl, check the Traveling Cart, or pick up your a
 
    | Cost | Materials | Build time | Size |
    |---|---|---|---|
-   | 15,000g | 10 Iron Bar, 5 Refined Quartz, 2 Battery Pack | 2 days | 3×3 tiles |
+   | 75,000g | 10 Iron Bar, 5 Refined Quartz, 5 Battery Pack | 2 days | 3×3 tiles |
 
 2. **Open the console.** Stand below the dish and right-click the green screen on its front.
 3. **Add a reminder.** Type a message, choose how often it repeats and at what time, then click **Add**.
@@ -57,7 +57,7 @@ SMAPI creates `config.json` in the mod's folder the first time you launch the ga
 | `MaxVisible` | `3` | Maximum number of reminder boxes shown at once. |
 | `PlaySound` | `true` | Play a chime when a reminder appears. |
 | `RequireDish` | `true` | Only show reminders while a completed Satellite Dish exists. |
-| `InstantBuild` | `true` | Robin finishes the dish instantly instead of taking 2 days. This is meant for testing. |
+| `InstantBuild` | `false` | Robin finishes the dish instantly instead of taking 2 days. Handy for testing. |
 
 ## Building from source
 
